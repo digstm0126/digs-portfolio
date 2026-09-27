@@ -18,7 +18,7 @@
 				<link>http://localhost:1313/posts/patchwork%C5%8Dtautahi/</link>
 				<pubDate>Thu, 24 Sep 2026 12:24:15 +1200</pubDate>
 				<guid>http://localhost:1313/posts/patchwork%C5%8Dtautahi/</guid>
-				<description>&lt;p&gt;{{ $image := resources.Get &amp;ldquo;images/Patchwork-Otautahi(Baner).jpeg&amp;rdquo; }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-patchwork&#34;&gt;what is patchwork&lt;/h2&gt;&#xA;&lt;p&gt;patchwrok&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-take-aways&#34;&gt;key take aways&lt;/h2&gt;&#xA;&lt;p&gt;i learnt to make prototypes fast and acount for the time to re wright&lt;/p&gt;&#xA;&lt;h3 id=&#34;latest-update&#34;&gt;latest update&lt;/h3&gt;</description>
+				<description>&lt;p&gt;&lt;img src=&#34;baner.jpeg&#34; alt=&#34;Patchwork Ōtautahi banner&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-patchwork&#34;&gt;what is patchwork&lt;/h2&gt;&#xA;&lt;p&gt;patchwrok&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-take-aways&#34;&gt;key take aways&lt;/h2&gt;&#xA;&lt;p&gt;i learnt to make prototypes fast and acount for the time to re wright&#xA;i did some other stuff&lt;/p&gt;&#xA;&lt;h3 id=&#34;latest-update&#34;&gt;latest update&lt;/h3&gt;</description>
 			</item>
 			<item>
 				<title>Digs Matthews</title>

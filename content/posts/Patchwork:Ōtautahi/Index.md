@@ -4,10 +4,7 @@ draft = false
 title = 'Patchwork:Ōtautahi'
 +++
 
-{{ $image := resources.Get "images/Patchwork-Otautahi(Baner).jpeg" }}
-
-{{ $image := .Resources.GetMatch "Patchwork-Otautahi(Baner).jpeg" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+![Patchwork Ōtautahi banner](baner.jpeg)
 
 ## what is patchwork
 

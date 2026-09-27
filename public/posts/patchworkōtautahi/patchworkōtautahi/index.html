@@ -25,7 +25,9 @@
   
   <meta name="theme-color" />
 
-  <meta name="description" content="
+  <meta name="description" content="{{ $image := resources.Get &ldquo;images/Patchwork-Otautahi(Baner).jpeg&rdquo; }}
+{{ $image := .Resources.GetMatch &ldquo;Patchwork-Otautahi(Baner).jpeg&rdquo; }}
+
 what is patchwork
 patchwrok
 key take aways
@@ -147,7 +149,9 @@ latest update" />
   <header class="mb-14">
     <h1 class="my-0! pb-2.5">Patchwork:Ōtautahi</h1><div class="text-xs antialiased opacity-60"><time>Sep 24, 2026</time></div></header>
 
-  <section><p><img src="baner.jpeg" alt="Patchwork Ōtautahi banner"></p>
+  <section><p>{{ $image := resources.Get &ldquo;images/Patchwork-Otautahi(Baner).jpeg&rdquo; }}</p>
+<p>{{ $image := .Resources.GetMatch &ldquo;Patchwork-Otautahi(Baner).jpeg&rdquo; }}
+<!-- raw HTML omitted --></p>
 <h2 id="what-is-patchwork">what is patchwork</h2>
 <p>patchwrok</p>
 <h2 id="key-take-aways">key take aways</h2>
