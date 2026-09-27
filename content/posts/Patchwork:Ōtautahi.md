@@ -16,5 +16,6 @@ patchwrok
 ## key take aways
 
 i learnt to make prototypes fast and acount for the time to re wright
+i did some other stuff
 
 ### latest update
