@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Digs Matthews</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on Digs Matthews</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 24 Sep 2026 12:24:15 +1200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Patchwork:Ōtautahi</title>
+				<link>http://localhost:1313/posts/patchwork%C5%8Dtautahi/</link>
+				<pubDate>Thu, 24 Sep 2026 12:24:15 +1200</pubDate>
+				<guid>http://localhost:1313/posts/patchwork%C5%8Dtautahi/</guid>
+				<description>&lt;p&gt;{{ $image := resources.Get &amp;ldquo;images/Patchwork-Otautahi(Baner).jpeg&amp;rdquo; }}&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-patchwork&#34;&gt;what is patchwork&lt;/h2&gt;&#xA;&lt;p&gt;patchwrok&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-take-aways&#34;&gt;key take aways&lt;/h2&gt;&#xA;&lt;p&gt;i learnt to make prototypes fast and acount for the time to re wright&lt;/p&gt;&#xA;&lt;h3 id=&#34;latest-update&#34;&gt;latest update&lt;/h3&gt;</description>
+			</item>
+			<item>
+				<title>Digs Matthews</title>
+				<link>http://localhost:1313/posts/digsmatthewsportfolio/</link>
+				<pubDate>Thu, 24 Sep 2026 12:02:31 +1200</pubDate>
+				<guid>http://localhost:1313/posts/digsmatthewsportfolio/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

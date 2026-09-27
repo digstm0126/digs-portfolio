@@ -1,0 +1,10 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Digs Matthews'
+theme = 'hugo-paper'
+
+[params]
+    linkedin = 'https://www.linkedin.com/in/digs-matthews-2793252aa' 
+
+    name = 'Digs Matthews'
+    bio = 'I am a game devaloper. i have resently graduated from Uc. im fimiler with both unity and unreal'
