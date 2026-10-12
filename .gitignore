@@ -1,0 +1,10 @@
+# Hugo build output (GitHub Actions rebuilds the site on deploy)
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# macOS
+.DS_Store
+
+# Local Claude Code preview settings
+/.claude/
