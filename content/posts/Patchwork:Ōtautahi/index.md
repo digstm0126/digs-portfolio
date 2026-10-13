@@ -14,7 +14,7 @@ cover = 'baner.jpeg'
 ## What is Patchwork Ōtautahi?
 
 
-Patchwork Ōtautahi is an interactive mural spread across three screens at Tūranga, Christchurch's central library. It shows an isometric town modelled on Ōtautahi, full of little NPCs going about their day. Every so often one of them needs help deciding something, and anyone walking past can text them through a web app on their phone. There's nothing to download. When you help an NPC, they send you a selfie, and your choice stays visible in the town for everyone to see.
+Patchwork Ōtautahi is an interactive mural spread across three screens at Tūranga, Christchurch's central library. It shows an isometric town modelled on Ōtautahi, full of little NPCs going about their day. Every so often one of them needs help deciding something, and anyone walking past can text them through a web app on their phone. When you help an NPC, they send you a selfie, and your choice stays visible in the town for everyone to see.
 
 ## My role
 
