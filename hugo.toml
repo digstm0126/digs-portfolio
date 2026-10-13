@@ -7,4 +7,5 @@ theme = 'hugo-paper'
     linkedin = 'digs-matthews-2793252aa' 
 
     name = 'Digs Matthews'
+    avatarImage = 'avatar.png'
     bio = "I'm a game dev based in Ōtautahi. I work with Unity and Unreal. Check out my stuff and get in touch if you'd like to talk, especially about Big Walk or Animal Well."
