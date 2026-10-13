@@ -4,7 +4,7 @@ draft = false
 title = 'Sticky Situation'
 cover = 'baner.jpeg'
 +++
-[Sticky Situation banner](baner.jpeg)
+![Sticky Situation banner](baner.jpeg)
 ## What is Sticky Situation?
 This project was part of a personal summer project a few of us did together where we pretended to be a small studio making a few friend-group games.
 
