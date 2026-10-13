@@ -7,10 +7,6 @@ cover = 'baner.jpeg'
 
 ![[content/posts/Sticky situation (personal project, learning muiltyplayer)/baner.jpeg]]
 
-## Trailer
-
-{{< vimeo-vertical 1228566704 "Patchwork Ōtautahi trailer" >}}
-
 ## What is Sticky Situation?
 This project was part of a personal summer project a few of us did together where we pretended to be a small studio making a few friend-group games.
 
