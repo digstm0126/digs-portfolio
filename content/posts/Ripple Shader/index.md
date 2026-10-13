@@ -14,5 +14,7 @@ It uses actual points from the world to trigger these. I believe you are not sup
 
 I would definitely do it much differently in the future.
 
+{{< youtube PqCJgrkFhOM >}}
+
 ![[RipleShaderGraph.jpeg|700]]
 
