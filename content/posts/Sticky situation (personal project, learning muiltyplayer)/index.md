@@ -5,7 +5,7 @@ title = 'Sticky Situation'
 cover = 'baner.jpeg'
 +++
 
-![Patchwork Ōtautahi banner](baner.jpeg)
+![[content/posts/Sticky situation (personal project, learning muiltyplayer)/baner.jpeg]]
 
 ## Trailer
 

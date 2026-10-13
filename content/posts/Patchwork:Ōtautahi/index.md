@@ -4,9 +4,7 @@ draft = false
 title = 'Patchwork:Ōtautahi'
 cover = 'baner.jpeg'
 +++
-
-![Patchwork Ōtautahi banner](baner.jpeg)
-
+![[content/posts/Patchwork:Ōtautahi/baner.jpeg]]
 ## Trailer
 
 {{< vimeo-vertical 1228566704 "Patchwork Ōtautahi trailer" >}}
