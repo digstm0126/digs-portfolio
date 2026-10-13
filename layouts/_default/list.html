@@ -54,6 +54,10 @@ $paginator.Pages -}}<!---->
     >Featured</span
   >
   {{- end -}}
+  <h2 class="my-0!">{{- .Title -}}</h2>
+  <time class="text-xs antialiased opacity-60"
+    >{{- .Date | time.Format ":date_medium" -}}</time
+  >
   {{- with .Params.cover -}}{{- with $page.Resources.Get . -}}
   {{- $img := .Fill "1200x560 Center webp q80" -}}
   <img
@@ -63,13 +67,9 @@ $paginator.Pages -}}<!---->
     height="{{- $img.Height -}}"
     alt=""
     loading="lazy"
-    style="display:block;width:100%;height:auto;margin:0 0 1rem;border-radius:8px;"
+    style="display:block;width:100%;height:auto;margin:0.75rem 0 0;border-radius:8px;"
   />
   {{- end -}}{{- end -}}
-  <h2 class="my-0!">{{- .Title -}}</h2>
-  <time class="text-xs antialiased opacity-60"
-    >{{- .Date | time.Format ":date_medium" -}}</time
-  >
   <a class="absolute inset-0 text-[0px]" href="{{- .Permalink -}}"
     >{{- .Title -}}</a
   >
