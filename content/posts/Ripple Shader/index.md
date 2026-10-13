@@ -4,7 +4,7 @@ draft = false
 title = 'Ripple Shader'
 cover = 'RippleShaderBaner.jpeg'
 +++
-![Patchwork Ōtautahi banner](RippleShaderBaner.jpeg)
+![Ripple Shader banner](RippleShaderBaner.jpeg)
 ## What is my Ripple Shader?
 This project was part of a horror project and I made this lighting effect with Unity Shader Graph to help light the world.
 
@@ -16,5 +16,5 @@ I would definitely do it much differently in the future.
 
 {{< youtube PqCJgrkFhOM >}}
 
-![[RipleShaderGraph.jpeg|700]]
+![Ripple shader graph](RipleShaderGraph.jpeg)
 
