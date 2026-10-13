@@ -2,6 +2,7 @@
 date = '2026-09-24T12:24:15+12:00'
 draft = false
 title = 'Patchwork:Ōtautahi'
+cover = 'baner.jpeg'
 +++
 
 ![Patchwork Ōtautahi banner](baner.jpeg)
