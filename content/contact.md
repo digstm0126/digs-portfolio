@@ -8,3 +8,4 @@ I'm a game developer based in Ōtautahi Christchurch, working in Unity and Unrea
 - **Email:** [digs@digsmatthews.com](mailto:digs@digsmatthews.com)
 - **Phone:** [022 684 8035](tel:+64226848035)
 - **LinkedIn:** [digs-matthews](https://www.linkedin.com/in/digs-matthews-2793252aa)
+- **Itch:** [digs-matthews-Itch](https://digstm.itch.io)
