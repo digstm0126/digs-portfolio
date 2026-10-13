@@ -4,7 +4,9 @@ title = 'Digs Matthews'
 theme = 'hugo-paper'
 
 [params]
-    linkedin = 'digs-matthews-2793252aa' 
+    linkedin = 'digs-matthews-2793252aa'
+    itch = 'https://digstm.itch.io'
+    email = 'digs@digsmatthews.com'
 
     name = 'Digs Matthews'
     avatarImage = 'avatar.png'
